@@ -3,12 +3,13 @@
 ### Project Title: E commerce Sales Analysis 
 
 ### Project Overview 
-
+---
 
 ### Data Sources 
 
 
 ### Tools Used
+---
 - Microsoft Excel[Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
@@ -30,6 +31,7 @@
   - What are the products on peak sales?
 
     ### Data Analysis
+    ---
     This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis;
     
 ```SQL
